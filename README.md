@@ -105,4 +105,4 @@
 一张图截图模仿gpt的官网,含有交互接口
 ![img_7.png](https://img.cdn1.vip/i/692fe3cbda45c_1764746187.png)
 一张图模仿网易云
-![img_8.png](https://free.picui.cn/free/2025/12/03/692fe3670012d.png)
+![img_8.png](https://free.picui.cn/free/2025/12/03/692fe52f15cad.png)
